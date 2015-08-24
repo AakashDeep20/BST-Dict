@@ -1,0 +1,7 @@
+ Implementation of a user fed dictionary using a Binary Search Tree (BST).
+ Each word in the dictionary along with its meaning is represented as a single node of the tree.
+ Methods for insertion, deletion, search and traversal operations are provided as they are performed in 
+ a Binary Search Tree.
+ 
+  Aakash Deep Sahariya
+  IIT-BHU
